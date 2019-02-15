@@ -1,0 +1,2 @@
+export ORG_GRADLE_PROJECT_artifactoryUsername=
+export ORG_GRADLE_PROJECT_artifactoryPassword=
